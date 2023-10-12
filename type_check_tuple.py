@@ -1,0 +1,10 @@
+simpleList = ("red", "blue", "green", 4, 5, 6)
+print(simpleList)
+print(type(simpleList))
+print(type(simpleList[5]))
+
+print("simpleList[4] =", simpleList[4])
+print("simpleList[0:4] =", simpleList[0:4])
+print("simpleList[4:] =", simpleList[4:])
+print("simpleList[2:] =", simpleList[2:])
+print("simpleList[-1] =", simpleList[-1])
